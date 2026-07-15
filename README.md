@@ -11,3 +11,7 @@ James Leonard Saldariega
 I am learning GitHub.
 
 ## GitHub Desktop Practice
+
+## Branch Practice
+
+This change was added in a separate branch.

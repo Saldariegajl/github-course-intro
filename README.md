@@ -3,8 +3,11 @@
 This repository was created as part of the GitHub training course.
 
 ## Author
+
 James Leonard Saldariega
 
 ## About Me
 
 I am learning GitHub.
+
+## GitHub Desktop Practice
